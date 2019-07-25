@@ -1,4 +1,4 @@
-package cn;
+package cn.andios.javabean;
 /*
 andios javaBean
  */
